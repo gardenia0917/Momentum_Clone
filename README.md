@@ -1,6 +1,11 @@
 # Momentum_Clone with Vanilla JS
+-----
 
+작업 시간 : 220112-220115  
+사용 언어 : JavaScript, HTML, CSS  
+강의 : [노마드코더](https://nomadcoders.co/)
 
+-----
 ## greeting.js
 ```
 유저에게 닉네임 전달 받아 local Storage에 저장
