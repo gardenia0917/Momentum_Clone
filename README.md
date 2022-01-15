@@ -21,12 +21,12 @@
 시,분,초 로 현재 시간 표시
 ```
 
-## weather
+## weather.js
 ```
 현재 지역과 날씨 표시
 ```
 
-## to do list
+## to do list.js
 ```
 할 일 등록 
 할 일 삭제 
